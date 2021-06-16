@@ -17570,7 +17570,6 @@ label.btn {
 ------------------------------------*/
 .brand {
   width: 100%;
-  max-width: 7.5rem;
 }
 
 /*------------------------------------
@@ -24154,3 +24153,36 @@ a:hover .text-hover-primary {
 /*------------------------------------
   File for your custom SCSS style
 ------------------------------------*/
+
+.slack-app-button {
+  background: white;
+  padding:  15px 20px;
+  border: 0.5px solid #4A154B;
+  border-radius: 10px;
+  margin: 20px auto;
+  color: #4A154B;
+  box-shadow: 5px 5px;  
+  transition-duration: 0.4s;
+}
+
+.slack-app-button > img {
+  margin-right: 10px;
+}
+
+.slack-app-button:hover {
+  background: #4A154B;
+  color: white;
+  box-shadow: 5px 5px black;
+}
+
+.slack-app-button:hover > img{
+  filter:  brightness(100) saturate(100%);
+}
+
+.brand-logo{
+  margin-left: 0px;
+  position: absolute;
+  left:  140px;
+  top: 20px;
+  width: 200px;
+}
