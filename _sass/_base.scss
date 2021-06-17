@@ -24186,3 +24186,19 @@ a:hover .text-hover-primary {
   top: 20px;
   width: 200px;
 }
+
+@media (min-width: 768px) {
+  .display-mobile {
+    display: none;
+  }
+  .display-web {
+    display: block !important;
+  }
+}
+
+.display-mobile {
+    display: none;
+  }
+.display-web {
+  display: none;
+}

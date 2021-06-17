@@ -42,7 +42,45 @@ layout: default
       </div>
 
       <div class="mt-lg-n11 mb-7 mb-lg-0">
-        <figure class="ie-device-and-mobile">
+        <figure class="ie-device-and-mobile display-mobile">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="100px" y="0px" viewBox="0 0 3000 1000" width="400px" xml:space="preserve">
+
+              <path fill="#fff" d="M1916.1,696.8H992.9c-17.4,0-31.7-14.3-31.7-31.7V31.7c0-17.4,14.3-31.7,31.7-31.7h923.3
+                c17.4,0,31.7,14.3,31.7,31.7v633.6C1947.8,682.6,1933.5,696.8,1916.1,696.8z"/>
+              <circle fill="#F7F7F7" cx="1452.8" cy="28.2" r="3.6"/>
+              <path fill="#fff" d="M2055.1,677.7H854.4c-1.8,0-3.4-1.6-3.4-3.4l0,0c0-1.8,1.6-3.4,3.4-3.4h1200.7c1.8,0,3.4,1.6,3.4,3.4l0,0
+                C2058.5,676.2,2057.1,677.7,2055.1,677.7z"/>
+              <path fill="#EFEFEF" d="M1454.8,679.9l-603.9-2.2c0,0,29.1,13.7,142.4,19.1h459.5h3.7h459.6c113.3-5.4,142.4-19.1,142.4-19.1
+                L1454.8,679.9z"/>
+
+                <linearGradient id="devices1ID_1" gradientUnits="userSpaceOnUse" x1="1339.1" y1="546.1826" x2="1570.1" y2="546.1826" gradientTransform="matrix(1 0 0 1 0 129.1174)">
+                <stop  offset="5.908129e-07" style="stop-color:#F0F1F2"/>
+                <stop  offset="5.235744e-02" style="stop-color:#F6F7F8"/>
+                <stop  offset="0.1708" style="stop-color:#FDFDFD"/>
+                <stop  offset="0.5" style="stop-color:#FFFFFF"/>
+                <stop  offset="0.8292" style="stop-color:#FDFDFD"/>
+                <stop  offset="0.9476" style="stop-color:#F6F7F8"/>
+                <stop  offset="1" style="stop-color:#F0F1F2"/>
+              </linearGradient>
+              <path fill="url(#devices1ID_1)" d="M1565.7,679.5h-222.4c-2.3,0-4.2-1.9-4.2-4.2v-4.2h231v4.2C1570.1,677.6,1568.1,679.5,1565.7,679.5z"/>
+              <g>
+                <defs>
+                  <rect id="devices1ID_2" x="998" y="45.3" width="909.6" height="567.7"/>
+                </defs>
+                <clipPath id="devices1ID_3">
+                  <use xlink:href="#devices1ID_2"/>
+                </clipPath>
+                <g clip-path="url(#devices1ID_3)">
+                  <image id="SVGDevices1LaptopImg" width="1618" height="1010" xlink:href="/assets/img/screen-grab-1.gif"  transform="matrix(0.5622 0 0 0.5622 998.0432 45.2877)"></image>
+                </g>
+                <g>
+                  <rect id="laptopID2" x="998" y="45.3" fill="none" stroke="#e7eaf3" stroke-width="1.2" stroke-miterlimit="10" width="909.6" height="567.7"/>
+                </g>
+              </g>
+          </svg>
+        </figure>
+
+        <figure class="ie-device-and-mobile display-web">
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2058.5 1182.2" xml:space="preserve">
             <path fill="none" stroke="#bdc5d1" stroke-width="5.4276" stroke-miterlimit="10" stroke-dasharray="8.5629" d="M212.3,502.7c0.9-1.6,1.8-3.2,2.7-4.7"/>
             <path fill="none" stroke="#bdc5d1" stroke-width="5.4276" stroke-miterlimit="10" stroke-dasharray="8.5629" d="M220.8,488.8c1.9-2.8,3.8-5.5,5.7-8.3c13-18.3,27.7-35,43.4-49.8c22.5-21.3,47.4-38.9,73.8-52.2
@@ -77,7 +115,7 @@ layout: default
                   <use xlink:href="#devices1ID_2"/>
                 </clipPath>
                 <g clip-path="url(#devices1ID_3)">
-                  <image id="SVGDevices1LaptopImg" width="1618" height="1010" xlink:href="/assets/img/1618x1010/img1.jpg"  transform="matrix(0.5622 0 0 0.5622 998.0432 45.2877)"></image>
+                  <image id="SVGDevices1LaptopImg" width="1618" height="1010" xlink:href="/assets/img/screen-grab-1.gif"  transform="matrix(0.5622 0 0 0.5622 998.0432 45.2877)"></image>
                 </g>
                 <g>
                   <rect id="laptopID2" x="998" y="45.3" fill="none" stroke="#e7eaf3" stroke-width="1.2" stroke-miterlimit="10" width="909.6" height="567.7"/>
@@ -158,7 +196,6 @@ layout: default
           </svg>
         </figure>
       </div>
-
       <div class="row justify-content-lg-end">
         <div class="col-lg-7 mt-lg-n11">
           <h2 class="h1 mb-4">All your meetings and action items stored in slack  </h2>
@@ -167,11 +204,11 @@ layout: default
       </div>
     </div>
     <!-- End Features Section --> 
-    <div class="row space-top-md-1 space-top-lg-2">
+    <div class="text-center space-2">
       {%- include slack-add-button.html -%}
     </div>
     <!-- Features Section -->
-    <div class="container space-md-2 space-lg-3 text-center">
+    <div class="container space-2 space-lg-3 text-center">
       <div class="mb-9">
         <h2 class="h1">Who is this app for?</h2>
       </div>
