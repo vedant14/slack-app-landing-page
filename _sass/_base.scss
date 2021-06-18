@@ -24189,7 +24189,7 @@ a:hover .text-hover-primary {
 
 @media (min-width: 768px) {
   .display-mobile {
-    display: none;
+    display: none !important;
   }
   .display-web {
     display: block !important;
@@ -24197,7 +24197,9 @@ a:hover .text-hover-primary {
 }
 
 .display-mobile {
-    display: none;
+    display: block;
+    max-width: 100%;
+    padding:  10px;
   }
 .display-web {
   display: none;
