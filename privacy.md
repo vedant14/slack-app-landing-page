@@ -8,16 +8,15 @@ layout: content
 
 ## TL;DR
 
-1. Particypants stores only the information about it's users and teams that is required to achieve a functioning bot.
-2. We store all meeting notes in our servers for the teams to later access them. Send a mail to <a href="mailto:vedant@particypants.com">vedant@particypants.com </a> to setup auto delete of all meeting notes.
-3. To better understand how the bot is used we gather per-team usage statistics.
-4. None of the data on our servers will ever be shared/sold to 3rd party services.
-5. All your data will be deleted after you terminate your account with Particypants, mail me <a href="mailto:vedant@particypants.com">vedant@particypants.com </a> to know more.
-6. Most of the data that we store will originate from Slack, you may find it useful to review the Slack's privacy policy.
+1. Particypants stores only the information about it's users and products that is required to achieve a functioning app.
+2. We store all advert data in our servers for the teams to later access them. Send a mail to <a href="mailto:vedant@particypants.com">vedant@particypants.com </a> to setup auto delete all data.
+3. None of the data on our servers will ever be shared/sold to 3rd party services.
+4. All your data will be deleted after you terminate your account with Particypants, mail me <a href="mailto:vedant@particypants.com">vedant@particypants.com </a> to know more.
+5. Most of the data that we store will originate from Shopify, you may find it useful to review the Shopify's privacy policy.
 
 ## Longer Version
 
-1. Your privacy is important to us. It is Particypants's policy to respect your privacy regarding any information we may collect from you across our website, https://www.particypants.com, and other sites we own and operate. Particypants is based on the premise of keeping most of the user experience within Chat Platforms (Slack) . As such, it makes an effort to store the minimum amount of data required to run the service and to collect analytics to improve it.
+1. Your privacy is important to us. It is Particypants's policy to respect your privacy regarding any information we may collect from you across our website, https://www.particypants.com, and other sites we own and operate. Particypants is based on the premise of keeping most of the user experience within Shopigy Platforms (Shopify) . As such, it makes an effort to store the minimum amount of data required to run the service and to collect analytics to improve it.
 
 2. We will only process personal information in accordance with the Data Protection Legislation which for the purposes of this privacy policy shall mean: (i) the GDPR and any national implementing laws, regulations and secondary legislation, as amended or updated from time to time, in Israel;(ii) any successor legislation to the GDPR or to Israel's Privacy Protection Regulations (Data Security) 5777-2017, and other applicable privacy laws; and (iii) any other privacy legislation worldwide, applicable to Particypants’s business.
 
@@ -25,7 +24,7 @@ layout: content
 
 4. Any reference to "you" throughout, shall be deemed to refer to underlying data subjects for which you are a data controller, as appropriate.
 
-5. By signing into your Chat Platform account on the Website, you grant us access to and permission to process personal data in your Chat Platform account and, if you are a data controller of personal information, to process personal data of the Chat Platform user accounts you give us access to by installing the Particypants app.
+5. By signing into your Shopify Platform account on the Website, you grant us access to and permission to process personal data in your Shopify Platform account and, if you are a data controller of personal information, to process personal data of the Shopify Platform user accounts you give us access to by installing the Particypants app.
 
 #### Information we collect
 
@@ -38,7 +37,7 @@ layout: content
 
     1. This means any information about an individual from which that person can be identified.
 
-    2. We may ask for, or receive from Chat Platform after an approval, personal information, such as your:
+    2. We may ask for, or receive from Shopify Platform after an approval, personal information, such as your:
 
         - Name (first name and last name)
         - Email
@@ -54,7 +53,7 @@ layout: content
         - Business data
         - Business data refers to data that accumulates over the normal course of operation on our platform. This may include transaction records, stored files, user profiles, analytics data and other metrics, as well as other types of information, created or generated, as users interact with our services.
 
-    4. We may receive information about you through Chat Platform.
+    4. We may receive information about you through Shopify Platform.
 
     5. None of your private/sensitive data will be sold/shared to 3rd party services.
 
@@ -66,9 +65,9 @@ layout: content
 
     9. We don’t keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person.
 
-    10. Particypants is an app for Slack and integrates tightly with it. **Almost all data that Particypants collects originates from Slack. As such, you may find it useful to review the Slack's privacy policy.**
+    10. Particypants is an app for Shopify and integrates tightly with it. **Almost all data that Particypants collects originates from Shopify. As such, you may find it useful to review the Shopify's privacy policy.**
 
-    11. By design, Particypants has very little access to the data in your Chat Platform workspace: Particypants cannot view any messages or activities in any of your channels or conversations and it also does not have access to any of your files.
+    11. By design, Particypants has very little access to the data in your Shopify Platform workspace: Particypants cannot view any messages or activities in any of your channels or conversations and it also does not have access to any of your files.
 
     12. In addition to the team/workspace, channel, and user metadata mentioned above, Particypants only receives data when you or another user on your workspace actively engages or interacts with Particypants. This could be in the form of creating a new meeting or engaging with the notes/tasks posted.
 
@@ -135,7 +134,7 @@ layout: content
 
 2. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
 
-3. Similarly, Particypants is an app for the Chat Platforms and as such, you may find it useful to review the relevant privacy for Slack
+3. Similarly, Particypants is an app for the Shopigy Platforms and as such, you may find it useful to review the relevant privacy for Shopify
 
 #### Changes to this policy
 
